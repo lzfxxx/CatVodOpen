@@ -5,13 +5,13 @@
         "key": "kunyu77",
         "name": "琨娱七七",
         "type": 3,
-        "api": "assets://js/kunyu77_open.js"
+        "api": "kunyu77_open.js"
       },
       {
           "key": "ffm3u8",
           "name": "非凡",
           "type": 3,
-          "api": "assets://js/ffm3u8_open.js",
+          "api": "ffm3u8_open.js",
           "ext": {
               "url": "https://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
               "categories": ["国产剧", "香港剧", "韩国剧", "欧美剧", "台湾剧", "日本剧", "海外剧", "泰国剧", "短剧", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "动漫片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "记录片"]
@@ -25,7 +25,7 @@
               "key": "bookan",
               "name": "博看听书",
               "type": 10,
-              "api": "assets://js/bookan_open.js"
+              "api": "bookan_open.js"
           }
       ]
   },
@@ -35,7 +35,7 @@
         "key": "alist",
         "name": "Alist",
         "type": 40,
-        "api": "assets://js/alist_open.js",
+        "api": "alist_open.js",
         "ext": [
           {
             "name": "🙋丫仙女",
